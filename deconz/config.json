@@ -1,5 +1,5 @@
 {
-  "name": "deCONZ-beta",
+  "name": "deCONZ",
   "version": "6.9.99",
   "slug": "deconz",
   "description": "Control a Zigbee network with ConBee or RaspBee by Dresden Elektronik",

@@ -6,6 +6,6 @@
   },
   "args": {
     "DECONZ_VERSION": "2.12.03",
-    "DECONZ_FOLDER": "beta"
+    "DECONZ_FOLDER": "stable"
   }
 }
