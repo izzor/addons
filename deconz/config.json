@@ -1,10 +1,10 @@
 {
-  "name": "deCONZ",
+  "name": "deCONZ-beta",
   "version": "6.9.99",
   "slug": "deconz",
   "description": "Control a Zigbee network with ConBee or RaspBee by Dresden Elektronik",
   "arch": ["amd64", "armhf", "aarch64"],
-  "url": "https://github.com/home-assistant/hassio-addons/tree/master/deconz",
+  "url": "https://github.com/izzor/addons/tree/master/deconz",
   "startup": "services",
   "init": false,
   "ingress": true,
@@ -41,5 +41,5 @@
     "dbg_zcl": "int?",
     "dbg_zdp": "int?"
   },
-  "image": "homeassistant/{arch}-addon-deconz"
+  "image": "homeassistant/{arch}-addon-deconz-beta"
 }
