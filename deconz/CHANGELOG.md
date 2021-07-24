@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.9.2
+
+- Bump deCONZ to beta 2.12.3
+
 ## 6.9.0
 
 - Bump deCONZ to 2.11.5

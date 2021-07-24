@@ -5,6 +5,7 @@
     "armhf": "homeassistant/armhf-base-raspbian:buster"
   },
   "args": {
-    "DECONZ_VERSION": "2.11.05"
+    "DECONZ_VERSION": "2.12.03",
+    "DECONZ_FOLDER": "beta"
   }
 }
