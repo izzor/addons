@@ -61,6 +61,7 @@ RUN \
 
 # Install deCONZ
 ARG DECONZ_VERSION
+ARG DECONZ_FOLDER
 RUN \
     set -x \
     && if [ "${BUILD_ARCH}" = "armhf" ]; \
